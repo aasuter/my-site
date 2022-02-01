@@ -112,7 +112,7 @@ function App() {
   ]
 
   const ghLink = 'https://github.com/aasuter'
-  const resumeLink = 'https://drive.google.com/file/d/1p7pU8SO2ckksIUsl7RJ0nZ9mG8j3NJ1D/view?usp=sharing'
+  const resumeLink = 'https://drive.google.com/file/d/10z64STgUAj_TDsnUxDMj1ZSmZMTV76_T/view?usp=sharing'
 
 
   return (
